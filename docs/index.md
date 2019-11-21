@@ -20,3 +20,8 @@ that the Python file is. (See Below)
 
 ![Figure 2](binary.PNG "Figure 2")
 
+This with statement will add the current "dicRow" to a file and create one if there isn't already one available.  The final step of this code will read the binary file.  
+
+Summary
+
+Overall, this assignment gives a good understanding of how to use pickling to serialize data to your computer, then retrieve it using the "dump" and "load" functions.  This will be useful when you want to transfer data over networks and across databases easily.  It should be noted that pickling does not make your program secure, nor does it have security features.  Thus the information stored should not be confidential.  In this assignment I learned that the with statement is a much more efficient way to open/close data as well as writing and reading data.
