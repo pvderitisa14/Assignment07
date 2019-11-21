@@ -9,3 +9,5 @@ I created a program that asks the user for their name, email, and age.  This is 
 with try/except error handling.
 
 ##Creating a Python Script
+#Figure 1
+![Figure 1](script.PNG "Figure 1")
