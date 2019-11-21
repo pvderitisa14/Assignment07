@@ -18,4 +18,5 @@ try/except statement in order to give a custom error to the user.  If the user i
 write the data to a binary file using the with statement along with the pickling function.  This file can be found in the same folder
 that the Python file is. (See Below)
 
+![Figure 2](binary.PNG "Figure 2")
 
